@@ -1,4 +1,4 @@
-let firstCard = 10
+let firstCard = 8
 let secondCard = 11
 let sum = firstCard + secondCard
 let hasBlackJack = false
